@@ -176,7 +176,7 @@ git commit -m "Adicionando testes de frete e compra"
 git push
 ~~~
 
-Comentário Final 💬
+### Comentário Final 💬
 Este mini-roteiro proporcionou uma introdução prática ao Cypress, cobrindo os conceitos básicos de testes end-to-end. O Cypress possui uma documentação extensa e exemplos no site oficial, caso queira se aprofundar ainda mais.
 
 Se precisar de mais ajuda, estou à disposição! 👨‍💻🚀
